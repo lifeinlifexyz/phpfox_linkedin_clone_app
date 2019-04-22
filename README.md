@@ -1,3 +1,7 @@
+<h2>Paid Support:</h2>       
+<p>The phpfox apps and themes by codemake are provided under the MIT license with no commercial support or liability. 
+<a href="mailto:phpfox@lifeinlife.xyz">phpfox@lifeinlife.xyz</a> also provides commercial support and professional customisation services.</p>
+
 <h1>PHPFox LinkedIn Clone App:</h1>
 
 LinkedIn Clone Template App - adds-on to LinkedIn Clone Template. Installing this app together with LinkedIn Clone Template will add a switcher vertical/horizontal menu.
